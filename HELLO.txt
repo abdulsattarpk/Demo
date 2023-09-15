@@ -5,6 +5,7 @@ Feature 2
 also feature2 
 also Feature3
 
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/main
 also ne line 
 =======
@@ -16,3 +17,6 @@ Feature FG ;ksdj;ljd da';dka;k
 
 
 >>>>>>> local
+=======
+this feature 1
+>>>>>>> 3d51349e6fb24a83b36565c108bf0a050bfd0b45
