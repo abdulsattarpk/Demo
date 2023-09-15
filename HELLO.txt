@@ -5,11 +5,11 @@ Feature 2
 also feature2 
 also Feature3
 
-<<<<<<< HEAD
+<<<<<<<<< Temporary merge branch 1
 this feature 1
 
 also Feature3 with letset 
-=======
+=========
 <<<<<<< HEAD
 <<<<<<< refs/remotes/origin/main
 also ne line 
@@ -25,4 +25,4 @@ Feature FG ;ksdj;ljd da';dka;k
 =======
 this feature 1
 >>>>>>> 3d51349e6fb24a83b36565c108bf0a050bfd0b45
->>>>>>> 1899502db1e431d3da2ebb3b12081dea2f2e316f
+>>>>>>>>> Temporary merge branch 2
