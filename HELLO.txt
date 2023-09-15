@@ -2,7 +2,17 @@ HELLo Worlsss HELLo
 
 Feature 1
 Feature 2
-also feature2
+also feature2 
 also Feature3
 
+<<<<<<< refs/remotes/origin/main
 also ne line 
+=======
+this feature 1
+
+also Feature3 with letset 
+
+Feature FG ;ksdj;ljd da';dka;k
+
+
+>>>>>>> local
