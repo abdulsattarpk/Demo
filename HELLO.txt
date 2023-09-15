@@ -5,9 +5,13 @@ Feature 2
 also feature2 
 also Feature3
 
+<<<<<<<<< Temporary merge branch 1
+this feature 1
+
+also Feature3 with letset 
+=========
+<<<<<<< HEAD
+<<<<<<< refs/remotes/origin/main
 also ne line 
 
 its letset  code 
-
-kashif Sattar
-
